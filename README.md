@@ -1,8 +1,14 @@
+This project was developed for UVA HooHacks 2023 in collaboration with two other students. It is built with pygame and gamebox. More about gamebox
+can be found in sources.txt. 
+
+
 # A Logic Gate and Circuit Sandbox and Simulator.
 
 You can access the game here: https://replit.com/@KevinSandoval8/CircuitGame?v=1 <br>
 Click the 'run' button on the right side
 You can move the pygame window by dragging the top bar if you needed to see more of the screen. (You can also fork the Replit which allows you to run the Replit without the information tab with the project description (I know no other way of minimizing that))
+
+To run this game locally, clone the repo and install the pygame library (probably with pip). 
 
 
 Use the user interface to select wires and place them on the checkerboard grid. Connect the sources (ON/OFF switches, or the power sources), using wires to logic gates.
